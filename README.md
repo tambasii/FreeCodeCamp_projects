@@ -1,2 +1,2 @@
 # FreeCodeCamp_projects
-This folder contains all the html and css codes for projects done in the course, Responsive Web Design
+This repo contains all the html and css codes for projects done in the course, Responsive Web Design
